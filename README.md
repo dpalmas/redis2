@@ -2,7 +2,7 @@
   Redis II: Estruturas e recursos na sua base NoSQL
 </h1>
 
-<p align="center">Exercícios do curso de Redis II do Alura.</a>
+<p align="center">Exercícios do curso de Redis II.</a>
 </p>
 
 <p align="center">
